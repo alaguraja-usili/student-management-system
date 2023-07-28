@@ -20,3 +20,7 @@ At the end:
 
 git reset --soft HEAD~1
 -------------------------------------------
+
+https://www.youtube.com/watch?v=5k8d6GuTn_k
+
+https://github.com/arkprocoder
